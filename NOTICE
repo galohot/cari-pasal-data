@@ -1,0 +1,12 @@
+cari-pasal-data
+
+corpus/distractors.jsonl is derived from the dataset "Azzindani/ID_REG_Parsed" on Hugging Face
+(https://huggingface.co/datasets/Azzindani/ID_REG_Parsed), licensed under the Apache License, Version 2.0.
+Rows were filtered, cleaned and sampled. The underlying regulation text is Indonesian law, which has no
+copyright under UU 28/2014 Pasal 42.
+
+corpus/core.jsonl holds Indonesian regulation text from official government sources (no copyright under
+UU 28/2014 Pasal 42). One source PDF (UU 40/2007) comes from the Hugging Face dataset "Azzindani/ID_REG"
+(Apache License, Version 2.0).
+
+sets/ is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
